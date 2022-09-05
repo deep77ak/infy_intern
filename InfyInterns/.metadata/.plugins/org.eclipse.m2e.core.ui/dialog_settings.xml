@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Dell\Desktop\infy_may_22-master\cap_infy_proj"/>
+			<item value="/home/raj/Documents/infy_batch_may_2022_final/cap_stone/InfyInterns"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="infy"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
